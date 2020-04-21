@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">幕淘商城</string>
+    <string name="action_settings">你好安卓，我来啦！</string>
+    <string name="hello">你好安卓，我来啦！</string>
+    <string name="btn_top">上边</string>
+    <string name="btn_left">左边</string>
+    <string name="btn_right">右边</string>
+    <string name="btn_bottom">下边</string>
+    <string name="btn_center">中间</string>
+    <string name="content">内容</string>
+    <string name="padding">内边框</string>
+    <string name="margin">外边框</string>
+    <string name="page_name">开心选餐</string>
+    <string name="name_hint">请输入您的名称</string>
+    <string name="name">姓名</string>
+    <string name="man">男</string>
+    <string name="women">女</string>
+    <string name="suan">酸</string>
+    <string name="fish">海鲜</string>
+    <string name="hot">辣</string>
+    <string name="type">口味</string>
+    <string name="sex">性别</string>
+    <string name="price">价格</string>
+    <string name="empty">0</string>
+    <string name="full">100</string>
+    <string name="new_menu">生成菜单</string>
+    <string name="next">下一个</string>
+    <string name="detail">查看详情</string>
+    <string name="toFragmentAct">跳转至FragmentAct</string>
+    <string name="loadStaticFragment">加载静态资源fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">首页</string>
+    <string name="message">消息</string>
+    <string name="my">我的</string>
+    <string name="find">发现</string>
+    <string name="discount">折扣券</string>
+    <string name="cart">购物车</string>
+    <string name="youhui">优惠券</string>
+    <string name="myOrder">我的订单</string>
+    <string name="mySave">我的收藏</string>
+    <string name="myKou">我的口令</string>
+    <string name="myJin">我的锦囊</string>
+    <string name="safeCenter">安全中心</string>
+    <string name="myAddress">常用地址</string>
+    <string name="myService">我的服务</string>
+    <string name="mySug">我的建议</string>
+
+
+    <string-array name="main_menu">
+        <item>飞机票</item>
+        <item>住酒店</item>
+        <item>去旅游</item>
+        <item>周边游</item>
+        <item>买门票</item>
+        <item>火车票</item>
+        <item>汽车票</item>
+        <item>领里程</item>
+    </string-array>
+    <string-array name="second_menu">
+        <item>飞机票</item>
+        <item>住酒店</item>
+        <item>去旅游</item>
+        <item>周边游</item>
+        <item>买门票</item>
+        <item>火车票</item>
+        <item>汽车票</item>
+        <item>领里程</item>
+    </string-array>
+</resources>
